@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying on IFCE(computer engineering degree) and student at Apple developer academy.
-- 🌱 I’m currently learning Swift, Objective-C,Solid Architecture.
+- 🌱 I’m currently learning Swift, Objective-C, Solid Architecture.
 
 <h2>My social media</h2>
 
